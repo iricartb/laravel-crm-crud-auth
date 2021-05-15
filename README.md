@@ -1,3 +1,5 @@
+<img src="https://i.morioh.com/2020/03/05/afcaac468b97.jpg" width="100%" />
+
 <h1>LaravelCRM - CRUD & AUTH</h1>
 
 <ul>
